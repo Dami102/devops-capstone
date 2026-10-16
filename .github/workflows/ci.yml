@@ -12,4 +12,4 @@ jobs:
         - name: Check website exists 
           run: test -f index.html 
         - name: Check welcome message 
-          run: grep -q "Welcome to My DevOps Project!" index.html
+          run: grep -q "Welcome to My Final DevOps Capstone!" index.html
